@@ -1,4 +1,32 @@
-<!-- JavaScript Bundle with Popper -->
-$('#collapseExample').collapse('show')({
-    toggle: false
-  })
+
+.nav {
+    background-color: bisque;
+}
+
+
+.jumbotron {
+    background-color: rgb(107, 156, 140);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100px;
+    color: white;
+}
+
+
+  .jumbotron-fluid {
+    background-color: rgb(107, 156, 140);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100px;
+    color: white;
+    
+  }
+
+
+  .btn-primary {
+    background-color: beige;
+    color: black;
+    border-color: beige;
+  }
+
+  .media {
+    background-color: beige;
+  }
