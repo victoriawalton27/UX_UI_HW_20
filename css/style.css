@@ -1,1 +1,4 @@
 <!-- JavaScript Bundle with Popper -->
+$('#collapseExample').collapse('show')({
+    toggle: false
+  })
